@@ -1,0 +1,6 @@
+{
+    "ai_model": "gpt-3.5-turbo",
+    "wake_word": "assistant",
+    "voice_enabled": false,
+    "max_response_tokens": 150
+}
